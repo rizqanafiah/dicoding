@@ -37,7 +37,9 @@ Proyek ini bertujuan untuk menganalisis data pada E-Commerce Public Dataset. Tuj
    cd dicoding/dashboard/
    streamlit run dashboard.py
    ```
+Atau bisa dengan kunjungi website ini [Project Data Analytics](https://dicoding-pelyknwnvvjlb9y3eldzra.streamlit.app/)
 
+   <img src="./dashboard/Screenshot.png" alt="Streamlit logo"></img>
 
 
 

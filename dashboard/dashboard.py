@@ -226,7 +226,7 @@ sns.barplot(y="recency", x="customer_id", data=rfm_df.sort_values(by="recency", 
 axes[0].set_ylabel(None)
 axes[0].set_xlabel(None)
 axes[0].set_title("By Recency (days)", loc="center", fontsize=18)
-axes[0].tick_params(axis='x', labelsize=15, rotation=45)  # Rotate x-axis labels for better readability
+axes[0].tick_params(axis='x', labelsize=15, rotation=45) 
 
 # Plot Frequency
 sns.barplot(y="frequency", x="customer_id", data=rfm_df.sort_values(by="frequency", ascending=False).head(5), palette=colors, ax=axes[1])

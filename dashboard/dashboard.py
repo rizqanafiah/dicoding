@@ -82,7 +82,6 @@ datetime_cols = ["order_approved_at", "order_delivered_carrier_date", "order_del
 all_df = pd.read_csv('./data/all_data.csv')
 all_df.sort_values(by="order_approved_at", inplace=True)
 all_df.reset_index(inplace=True)
-print(df.head())
 
 
 for col in datetime_cols:

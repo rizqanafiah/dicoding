@@ -92,8 +92,6 @@ max_date = all_df["order_approved_at"].max()
 
 # Sidebar
 with st.sidebar:
-    # Logo Image
-    
 
     # Date Range
     start_date, end_date = st.date_input(

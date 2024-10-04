@@ -2,7 +2,7 @@
 
 ## Project Data Analytics
 
-Repository ini berisi proyek data analytics yang saya kerjakan. Deployment in **Streamlit** 
+Repository ini berisi proyek data analytics yang saya kerjakan. Deployment in [***Streamlit**](https://dicoding-pelyknwnvvjlb9y3eldzra.streamlit.app/)
 
 ## Deskripsi
 

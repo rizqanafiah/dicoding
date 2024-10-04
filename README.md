@@ -2,7 +2,7 @@
 
 ## Project Data Analytics
 
-Repository ini berisi proyek data analytics yang saya kerjakan. Deployment in [**Streamlit**](https://dicoding-pelyknwnvvjlb9y3eldzra.streamlit.app/)
+Repository ini berisi proyek data analytics yang saya kerjakan. Deployment in [**Streamlit**]
 
 ## Deskripsi
 
@@ -37,7 +37,6 @@ Proyek ini bertujuan untuk menganalisis data pada E-Commerce Public Dataset. Tuj
    cd dicoding/dashboard/
    streamlit run dashboard.py
    ```
-Atau bisa dengan kunjungi website ini [Project Data Analytics](https://dicoding-pelyknwnvvjlb9y3eldzra.streamlit.app/)
 
    <img src="./dashboard/Screenshot.png" alt="Streamlit logo"></img>
 
